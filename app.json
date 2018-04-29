@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "My First App",
+    "slug": "my-first-app",
+    "splash": {
+      "image": "./assets/wallpaper.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#000"
+    },
+    "icon": "./assets/icon.png",
+    "sdkVersion": "26.0.0"
+  }
+}
