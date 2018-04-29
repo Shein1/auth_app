@@ -16,3 +16,8 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 trash.js
+App.test.js
+.watchmanconfig
+.flowconfig
+.DS_Store
+package-lock.json
